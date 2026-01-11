@@ -1,0 +1,3 @@
+= Nanoid
+
+An extremely simple implementation of nanoid in Go.
